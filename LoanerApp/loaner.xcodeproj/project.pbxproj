@@ -10,6 +10,7 @@
 		2CE401DB2498418A000B4E75 /* LoanedItems.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2CE401D92498418A000B4E75 /* LoanedItems.xcdatamodeld */; };
 		2CE401E2249847B3000B4E75 /* Item+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE401E0249847B3000B4E75 /* Item+CoreDataClass.swift */; };
 		2CE401E3249847B3000B4E75 /* Item+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE401E1249847B3000B4E75 /* Item+CoreDataProperties.swift */; };
+		2CE401E524984D27000B4E75 /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE401E424984D27000B4E75 /* ItemStore.swift */; };
 		448856882239D544001EDDC4 /* Loanee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448856872239D544001EDDC4 /* Loanee.swift */; };
 		E929E9692124EB7E0018488C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E929E9682124EB7E0018488C /* AppDelegate.swift */; };
 		E929E96B2124EB7E0018488C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E929E96A2124EB7E0018488C /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 		2CE401DA2498418A000B4E75 /* LoanedItems.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LoanedItems.xcdatamodel; sourceTree = "<group>"; };
 		2CE401E0249847B3000B4E75 /* Item+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataClass.swift"; sourceTree = "<group>"; };
 		2CE401E1249847B3000B4E75 /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		2CE401E424984D27000B4E75 /* ItemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		448856872239D544001EDDC4 /* Loanee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loanee.swift; sourceTree = "<group>"; };
 		E929E9652124EB7E0018488C /* loaner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = loaner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E929E9682124EB7E0018488C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				2CE401E0249847B3000B4E75 /* Item+CoreDataClass.swift */,
 				2CE401E1249847B3000B4E75 /* Item+CoreDataProperties.swift */,
 				2CE401D92498418A000B4E75 /* LoanedItems.xcdatamodeld */,
+				2CE401E424984D27000B4E75 /* ItemStore.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				2CE401E3249847B3000B4E75 /* Item+CoreDataProperties.swift in Sources */,
 				E9D24DEF212789B90045C5D8 /* UIImage+ImagePickerController.swift in Sources */,
 				2CE401DB2498418A000B4E75 /* LoanedItems.xcdatamodeld in Sources */,
+				2CE401E524984D27000B4E75 /* ItemStore.swift in Sources */,
 				E929E9692124EB7E0018488C /* AppDelegate.swift in Sources */,
 				E969554E21277C3100457E12 /* ItemEditorViewController.swift in Sources */,
 				448856882239D544001EDDC4 /* Loanee.swift in Sources */,
